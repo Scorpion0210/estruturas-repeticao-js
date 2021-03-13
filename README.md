@@ -1,3 +1,3 @@
-# estruturas-repeticao-js
+# Estruturas repetição Js
 
 Exemplo de estruturas de repetição
